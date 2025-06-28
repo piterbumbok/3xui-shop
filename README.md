@@ -1,7 +1,7 @@
 <div align="center" markdown>
 
 <p align="center">
-    <a href="/blob/main/README.md"><u><b>ENGLISH</b></u></a> •
+    <a href="/README.md"><u><b>ENGLISH</b></u></a> •
     <a href="/README.ru_RU.md"><u><b>РУССКИЙ</b></u></a>
 </p>
 
