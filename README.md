@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="/blob/main/README.md"><u><b>ENGLISH</b></u></a> •
-    <a href="/blob/main/README.ru_RU.md"><u><b>РУССКИЙ</b></u></a>
+    <a href="/README.ru_RU.md"><u><b>РУССКИЙ</b></u></a>
 </p>
 
 ![3xui-shop](https://github.com/user-attachments/assets/282d10db-a355-4c65-a2cf-eb0e8ec8eed1)
